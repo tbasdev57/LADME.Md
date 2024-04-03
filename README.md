@@ -1,17 +1,14 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Tayyib BASBUNAR</a> <img
+<h1 align="center">Hi, I'm <a href="https://www.blackcater.win/" target="_blank">Tayyib BASBUNAR</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com//in/tayyib-basbunar/)
 
 # Bienvenue sur mon profil GitHub !
 
 ## À propos de moi
-Je suis Tayyib BASBUNAR , un passionné de développement et un adepte de l'open source. J'aime explorer de nouvelles technologies et contribuer à des projets intéressants.
+Je suis Tayyib BASBUNAR ,  passionné de développement Web. Dynamique et toujours à la pointe des nouvelles technologies, je maîtrise
+ parfaitement les langages de développement web et d'applications et je
+ suis polyvalent en Informatique.
 
 <img align="right" alt="GIF" src="https://github.com/tbasdev57" width="360px"/>
 ## Mes compétences
@@ -56,9 +53,9 @@ https://github.com/tbasdev57
 ## Contactez-moi
 Si vous souhaitez discuter de projets, collaborer ou simplement dire bonjour, n'hésitez pas à me contacter :
 
-- Email : [![Gmail Badge](https://img.shields.io/badge/-mehdi.kedadouche@hotmail.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehdi.kedadouche@hotmail.fr)](mailto:mehdi.kedadouche@hotmail.fr)
+- Email : [![Gmail Badge](https://img.shields.io/badge/-basbunartayyib@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:basbunartayyib@gmail.com)](mailto:basbunartayyib@gmail.com)
  
-- LinkedIn :  [![Linkedin Badge](https://img.shields.io/badge/Mehdi-Kedadouche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdi-kedadouche-757410252/)](https://www.linkedin.com/in/mehdi-kedadouche-757410252/)
+- LinkedIn :  [![Linkedin Badge](https://img.shields.io/badge/tayyib-basbunar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayyib-basbunar/)](https://www.linkedin.com/in/tayyib-basbunar//)
  
  
 
